@@ -1,0 +1,35 @@
+{
+  "company": "TechVision",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "department": "IT",
+      "salary": 75000,
+      "address": {
+        "city": "Lahore",
+        "country": "Pakistan"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sara",
+      "department": "HR",
+      "salary": 58000,
+      "address": {
+        "city": "Karachi",
+        "country": "Pakistan"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ahmed",
+      "department": "Sales",
+      "salary": 42000,
+      "address": {
+        "city": "Islamabad",
+        "country": "Pakistan"
+      }
+    }
+  ]
+}
