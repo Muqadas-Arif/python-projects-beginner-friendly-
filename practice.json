@@ -1,35 +1,35 @@
 {
   "company": "TechVision",
-  "employees": [
+  "projects": [
     {
-      "id": 1,
-      "name": "Ali",
+      "project_id": 201,
+      "name": "Website Redesign",
       "department": "IT",
-      "salary": 75000,
-      "address": {
-        "city": "Lahore",
-        "country": "Pakistan"
-      }
+      "budget": 150000,
+      "team": [
+        {"id": 1, "name": "Ali", "role": "Lead"},
+        {"id": 2, "name": "Sara", "role": "Developer"}
+      ]
     },
     {
-      "id": 2,
-      "name": "Sara",
+      "project_id": 202,
+      "name": "HR Portal",
       "department": "HR",
-      "salary": 58000,
-      "address": {
-        "city": "Karachi",
-        "country": "Pakistan"
-      }
+      "budget": 80000,
+      "team": [
+        {"id": 3, "name": "Ahmed", "role": "Manager"},
+        {"id": 4, "name": "Amara", "role": "Assistant"}
+      ]
     },
     {
-      "id": 3,
-      "name": "Ahmed",
+      "project_id": 203,
+      "name": "Sales Dashboard",
       "department": "Sales",
-      "salary": 42000,
-      "address": {
-        "city": "Islamabad",
-        "country": "Pakistan"
-      }
+      "budget": 120000,
+      "team": [
+        {"id": 5, "name": "Usman", "role": "Analyst"},
+        {"id": 6, "name": "Lina", "role": "Data Engineer"}
+      ]
     }
   ]
 }
